@@ -1,0 +1,15 @@
+// const fs=require('fs');
+
+
+// fs.readFile("./test.txt","utf-8",(err,data)=>{
+//     if(err){
+//         console.log(err)
+//     }
+//     else{
+//         console.log(data)
+//     }
+// })
+// fs.appendFile('test.txt', 'Backend Advance Using nodejs', (err) => {
+//     if (err) throw err;
+//     console.log('The "data to append" was appended to file ${test.txt}');
+//   });
